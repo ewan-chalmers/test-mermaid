@@ -13,5 +13,5 @@ C ----> E[Enjoy your weekend!];
 D ----> E[Enjoy your weekend!];
 ```
 
-- Test in [github.com](https://github.com/ewan-chalmers/test-mermaid)
+- Test in [github.com](https://github.com/ewan-chalmers/test-mermaid) (works)
 - Test in [github.ibm.com](https://github.ibm.com/ewan-chalmers/test-mermaid)
