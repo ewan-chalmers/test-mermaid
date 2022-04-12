@@ -1,4 +1,4 @@
-# test
+# test-mermaid
 
 Test whether [mermaid in markdown](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) works.
 
